@@ -3,42 +3,42 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://www.yourdomain.com/</loc>
+    <loc>https://shopub.netlify.app/</loc>
     <priority>1.00</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/products</loc>
+    <loc>https://shopub.netlify.app/products</loc>
     <priority>0.90</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/product-detail</loc>
+    <loc>https://shopub.netlify.app/product-detail</loc>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/cart</loc>
+    <loc>https://shopub.netlify.app/cart</loc>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/checkout</loc>
+    <loc>https://shopub.netlify.app/checkout</loc>
     <priority>0.70</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/login</loc>
+    <loc>https://shopub.netlify.app/login</loc>
     <priority>0.60</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/register</loc>
+    <loc>https://shopub.netlify.app/register</loc>
     <priority>0.60</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/profile</loc>
+    <loc>https://shopub.netlify.app/profile</loc>
     <priority>0.50</priority>
   </url>
 

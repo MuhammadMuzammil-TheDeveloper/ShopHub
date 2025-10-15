@@ -37,6 +37,9 @@
 | **Utilities / Helpers** | date-fns, Lodash, etc. (if applicable) |
 
 ---
+# 🌍 ShopHub — Ecommerce Platform
+<img width="1280" height="760" alt="image" src="https://github.com/user-attachments/assets/9eaf0bd1-b673-4e99-9ef5-3c481fbe163c" />
+
 
 ## 🚀 Getting Started (Local Setup)
 
